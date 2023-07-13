@@ -1,9 +1,9 @@
 # BackRoads App
 
-Dummy tourism website.
+Dummy tourism website.<br/>
 [Live Preview](https://backroadsapp-web.netlify.app/)
-
-![screenshot](./assets/backroads-app.png)
+<br/><br/>
+![screenshot](./src/assets/backroads-app.png)
 
 ## The Concept
 
