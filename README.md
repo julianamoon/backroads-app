@@ -11,5 +11,5 @@ A website I took as the first experience adapting a HTML/CSS/Javascript website 
 
 ## Made With
 
-ReactJS
+ReactJS<br/>
 John Smilga's React 18 Course.
