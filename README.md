@@ -1,9 +1,9 @@
 # BackRoads App
 
-Dummy tourism website. 
-[Live Preview](https://color-flipflop.netlify.app/index.html)
+Dummy tourism website.
+[Live Preview](https://backroadsapp-web.netlify.app/)
 
-![screenshot](./assets/color-flipper-app.png)
+![screenshot](./assets/backroads-app.png)
 
 ## The Concept
 
